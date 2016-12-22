@@ -5,6 +5,8 @@
 //  Created by Wesley Combs on 12/22/16.
 //  Copyright © 2016 Wesley Combs. All rights reserved.
 //
+//  Built using the tutorial by Sebastian Henry aka The Swift Guy
+//  https://www.youtube.com/watch?v=-ddIP7NRkmY
 
 import UIKit
 
