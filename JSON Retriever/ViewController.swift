@@ -1,10 +1,15 @@
 //
 //  ViewController.swift
-//  jsonapp
+//  JSON Retriever
 //
-//  Created by Dustin Quillen on 12/22/16.
-//  Copyright © 2016 Dustin. All rights reserved.
+//  Created by Wesley Combs on 12/22/16.
+//  Copyright © 2016 Wesley Combs. All rights reserved.
 //
+//  Built using the tutorial by Sebastian Henry aka The Swift Guy
+//  https://www.youtube.com/watch?v=-ddIP7NRkmY
+//
+//  2016.12.22 - Added HTTP Header request options
+
 
 import UIKit
 
